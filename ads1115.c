@@ -2,8 +2,8 @@
  * @file ads1115.c
  * @brief ADS1115 16-bit ADC driver implementation for ESP-IDF
  * @version 1.0
- * @date 2023-10-20
- * @author Your Name
+ * @date 2025-05-26
+ * @author armisuari
  */
 
 #include "ads1115.h"
